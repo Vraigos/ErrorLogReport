@@ -1,3 +1,3 @@
-# LogTest
+# ErrorLogReport
 
 A repository for testing logging.
