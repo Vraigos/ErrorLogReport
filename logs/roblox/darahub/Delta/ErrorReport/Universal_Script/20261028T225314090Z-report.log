@@ -1,0 +1,11 @@
+DaraHub error report
+Time: 2026-10-28 22:53:11 UTC
+Executor: Delta
+Script: Universal Script
+PlaceId: 123974602339071
+Final error: No local copy of Darahub-Universal.lua
+
+Error stack:
+[05:53:11] Syntax Check: Invalid syntax in downloaded file: TlDGpuQRqjqDInOml:315: TlDGpCCMCZVftbOkjcHOysERo:25: Expected ',' after table constructor element
+[05:53:11] Local Load: No local copy of Darahub-Universal.lua
+[05:53:11] Download/Validation: No local copy of Darahub-Universal.lua
