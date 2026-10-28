@@ -1,0 +1,18 @@
+[Print] [05:58:56] Your Executor is: Delta
+[Print] [05:58:56] Current Place ID: 123974602339071
+[Print] [05:58:56] Current place ID not in list, scanning subplaces...
+[Print] [05:58:56] Game not in supported list, loading Universal script
+[Print] [05:58:56] Filename: Darahub-Universal.lua
+[Print] [05:58:56] 📥 Downloading: Darahub-Universal.lua
+[Print] [05:58:57] ✓ Download completed in 68.85 ms
+[Error] [05:58:57] ✗ Invalid syntax in downloaded file: yqdLXQAEWUdkeZTjD:321: yqdLXSorekhXJgFThpbWUJWvg:25: Expected ',' after table constructor element
+[Warn] [05:58:57] ✗ No local copy of Darahub-Universal.lua
+[Warn] [05:58:57] Fetch error: No local copy of Darahub-Universal.lua
+[Print] [05:58:57] === DaraHub initialization FAILED after 773.04 ms ===
+[Warn] [05:58:57] Error: No local copy of Darahub-Universal.lua
+[Print] [05:58:57] --- Error Stack ---
+[Error] [05:58:57] [05:58:57] Syntax Check: Invalid syntax in downloaded file: yqdLXQAEWUdkeZTjD:321: yqdLXSorekhXJgFThpbWUJWvg:25: Expected ',' after table constructor element
+[Warn] [05:58:57] [05:58:57] Local Load: No local copy of Darahub-Universal.lua
+[Warn] [05:58:57] [05:58:57] Download/Validation: No local copy of Darahub-Universal.lua
+[Print] [05:58:57] Something is wrong with the script!
+[Print] [05:58:57] Please check the error above and report it on Telegram.
