@@ -1,0 +1,25 @@
+{
+  "id": "c28338",
+  "receivedAt": "2026-10-28T14:58:42.640Z",
+  "method": "GET",
+  "path": "/",
+  "query": {},
+  "headers": {
+    "accept-encoding": "gzip, br",
+    "cf-connecting-ip": "2a06:98c0:3600::103",
+    "cf-ipcountry": "US",
+    "cf-ray": "a51accd84d90a381",
+    "cf-visitor": "{\"scheme\":\"https\"}",
+    "cf-worker": "cfone.cfdata.org",
+    "connection": "Keep-Alive",
+    "host": "darahub-errorlogendpointrequest.vraigos1.workers.dev",
+    "x-forwarded-proto": "https",
+    "x-real-ip": "2a06:98c0:3600::103"
+  },
+  "body": null,
+  "cf": {
+    "country": "US",
+    "colo": "SEA",
+    "asn": 13335
+  }
+}
