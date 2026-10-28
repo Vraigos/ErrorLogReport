@@ -1,0 +1,36 @@
+{
+  "id": "34a05e",
+  "receivedAt": "2026-10-28T14:55:43.642Z",
+  "method": "GET",
+  "path": "/favicon.ico",
+  "query": {},
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-encoding": "gzip, br",
+    "accept-language": "en-US,en;q=0.9",
+    "cf-connecting-ip": "175.100.15.123",
+    "cf-ipcountry": "KH",
+    "cf-ray": "a51ac8798bbad0a1",
+    "cf-visitor": "{\"scheme\":\"https\"}",
+    "connection": "Keep-Alive",
+    "dnt": "1",
+    "host": "darahub-errorlogendpointrequest.vraigos1.workers.dev",
+    "priority": "u=1, i",
+    "referer": "https://darahub-errorlogendpointrequest.vraigos1.workers.dev/",
+    "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?1",
+    "sec-ch-ua-platform": "\"Android\"",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36",
+    "x-forwarded-proto": "https",
+    "x-real-ip": "175.100.15.123"
+  },
+  "body": null,
+  "cf": {
+    "country": "KH",
+    "colo": "HKG",
+    "asn": 38623
+  }
+}
