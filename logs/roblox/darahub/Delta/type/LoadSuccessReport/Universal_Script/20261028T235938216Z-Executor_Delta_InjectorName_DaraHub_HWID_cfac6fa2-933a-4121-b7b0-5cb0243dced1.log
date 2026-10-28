@@ -1,0 +1,10 @@
+[Print] [20:59:11] Your Executor is: Delta
+[Print] [20:59:11] Current Place ID: 93978595733734
+[Print] [20:59:11] Current place ID not in list, scanning subplaces...
+[Print] [20:59:11] Game not in supported list, loading Universal script
+[Print] [20:59:11] Filename: Darahub-Universal.lua
+[Print] [20:59:11] 📥 Downloading: Darahub-Universal.lua
+[Print] [20:59:12] ✓ Download completed in 158.57 ms
+[Error] [20:59:12] ✗ Invalid syntax in downloaded file: ZpgMqrCVaCEaIMtYPPHSCSppc:384: ZpgMqgbYRUroIxCoOyoUcVHaX:25: Expected ',' after table constructor element
+[Print] [20:59:12] ✓ Loaded local copy: Darahub-Universal.lua
+[Print] [20:59:12] Loading Universal Script...
