@@ -1,0 +1,9 @@
+[Print] [15:03:42] Your Executor is: Madium
+[Print] [15:03:42] Current Place ID: 9872472334
+[Print] [15:03:42] Detected Script Name:Evade 2.2
+[Print] [15:03:42] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [15:03:42] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [15:03:42] ✓ Download completed in 115.13 ms
+[Error] [15:03:42] ✗ Invalid syntax in downloaded file: :384: :12943: Out of local registers when trying to allocate progressTexts: exceeded limit 200
+[Print] [15:03:43] ✓ Loaded local copy: DaraHub-Evade-2.2.lua
+[Print] [15:03:43] Loading Evade 2.2...
