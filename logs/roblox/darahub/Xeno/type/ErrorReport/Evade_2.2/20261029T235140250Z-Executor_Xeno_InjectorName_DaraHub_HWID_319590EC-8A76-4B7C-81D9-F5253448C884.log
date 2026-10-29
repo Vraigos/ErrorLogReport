@@ -1,0 +1,15 @@
+[Print] [19:51:31] Your Executor is: Xeno
+[Print] [19:51:31] Current Place ID: 9872472334
+[Print] [19:51:31] Detected Script Name:Evade 2.2
+[Print] [19:51:31] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [19:51:31] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [19:51:32] ✓ Download completed in 318.50 ms
+[Print] [19:51:32] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [19:51:32] Loading Evade 2.2...
+[Error] [19:51:38] ✗ Evade 2.2 failed to load: Requested module experienced an error while loading
+[Print] [19:51:38] === DaraHub initialization FAILED after 6.54 s ===
+[Warn] [19:51:38] Error: Requested module experienced an error while loading
+[Print] [19:51:38] --- Error Stack ---
+[Error] [19:51:38] [19:51:38] Script Execution: Failed to execute: Requested module experienced an error while loading
+[Print] [19:51:38] Something is wrong with the script!
+[Print] [19:51:38] Please check the error above and report it on Telegram.
