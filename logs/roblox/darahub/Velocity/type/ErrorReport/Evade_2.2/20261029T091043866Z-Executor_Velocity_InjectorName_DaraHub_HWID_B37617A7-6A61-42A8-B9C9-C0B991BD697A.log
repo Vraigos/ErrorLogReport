@@ -1,0 +1,17 @@
+[Print] [16:10:34] Your Executor is: Velocity
+[Print] [16:10:34] Current Place ID: 9872472334
+[Print] [16:10:34] Detected Script Name:Evade 2.2
+[Print] [16:10:34] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [16:10:34] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [16:10:43] ✓ Download completed in 9.13 s
+[Error] [16:10:43] ✗ Invalid syntax in downloaded file: vOjVPMQ4:384: :12943: Out of local registers when trying to allocate progressTexts: exceeded limit 200
+[Warn] [16:10:43] ✗ No local copy of DaraHub-Evade-2.2.lua
+[Warn] [16:10:43] Fetch error: No local copy of DaraHub-Evade-2.2.lua
+[Print] [16:10:43] === DaraHub initialization FAILED after 9.33 s ===
+[Warn] [16:10:43] Error: No local copy of DaraHub-Evade-2.2.lua
+[Print] [16:10:43] --- Error Stack ---
+[Error] [16:10:43] [16:10:43] Syntax Check: Invalid syntax in downloaded file: vOjVPMQ4:384: :12943: Out of local registers when trying to allocate progressTexts: exceeded limit 200
+[Warn] [16:10:43] [16:10:43] Local Load: No local copy of DaraHub-Evade-2.2.lua
+[Warn] [16:10:43] [16:10:43] Download/Validation: No local copy of DaraHub-Evade-2.2.lua
+[Print] [16:10:43] Something is wrong with the script!
+[Print] [16:10:43] Please check the error above and report it on Telegram.
