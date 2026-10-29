@@ -1,0 +1,15 @@
+[Print] [05:47:48] Your Executor is: Delta
+[Print] [05:47:48] Current Place ID: 9872472334
+[Print] [05:47:48] Detected Script Name:Evade 2.2
+[Print] [05:47:48] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [05:47:48] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [05:47:48] ✓ Download completed in 141.06 ms
+[Print] [05:47:48] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [05:47:48] Loading Evade 2.2...
+[Error] [05:47:49] ✗ Evade 2.2 failed to load: qsGOijXEOSFrXuEaxPmYPRWFL:215: attempt to index nil with 'Emote'
+[Print] [05:47:49] === DaraHub initialization FAILED after 1.53 s ===
+[Warn] [05:47:49] Error: qsGOijXEOSFrXuEaxPmYPRWFL:215: attempt to index nil with 'Emote'
+[Print] [05:47:49] --- Error Stack ---
+[Error] [05:47:49] [05:47:49] Script Execution: Failed to execute: qsGOijXEOSFrXuEaxPmYPRWFL:215: attempt to index nil with 'Emote'
+[Print] [05:47:49] Something is wrong with the script!
+[Print] [05:47:49] Please check the error above and report it on Telegram.
