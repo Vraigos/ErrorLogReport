@@ -1,0 +1,15 @@
+[Print] [02:56:00] Your Executor is: Real
+[Print] [02:56:00] Current Place ID: 9872472334
+[Print] [02:56:00] Detected Script Name:Evade 2.2
+[Print] [02:56:01] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [02:56:01] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [02:56:01] ✓ Download completed in 444.25 ms
+[Print] [02:56:01] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [02:56:01] Loading Evade 2.2...
+[Error] [02:56:03] ✗ Evade 2.2 failed to load: PlayerModule is not a valid member of PlayerScripts "Players.play111111j.PlayerScripts"
+[Print] [02:56:03] === DaraHub initialization FAILED after 3.62 s ===
+[Warn] [02:56:03] Error: PlayerModule is not a valid member of PlayerScripts "Players.play111111j.PlayerScripts"
+[Print] [02:56:03] --- Error Stack ---
+[Error] [02:56:03] [02:56:03] Script Execution: Failed to execute: PlayerModule is not a valid member of PlayerScripts "Players.play111111j.PlayerScripts"
+[Print] [02:56:03] Something is wrong with the script!
+[Print] [02:56:03] Please check the error above and report it on Telegram.
