@@ -1,0 +1,15 @@
+[Print] [09:47:08] Your Executor is: Delta
+[Print] [09:47:08] Current Place ID: 9872472334
+[Print] [09:47:08] Detected Script Name:Evade 2.2
+[Print] [09:47:08] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [09:47:08] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [09:47:09] ✓ Download completed in 873.63 ms
+[Print] [09:47:09] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [09:47:09] Loading Evade 2.2...
+[Error] [09:47:54] ✗ Evade 2.2 failed to load: Frame is not a valid member of ImageButton "ImageButton"
+[Print] [09:47:54] === DaraHub initialization FAILED after 46.12 s ===
+[Warn] [09:47:54] Error: Frame is not a valid member of ImageButton "ImageButton"
+[Print] [09:47:54] --- Error Stack ---
+[Error] [09:47:54] [09:47:54] Script Execution: Failed to execute: Frame is not a valid member of ImageButton "ImageButton"
+[Print] [09:47:54] Something is wrong with the script!
+[Print] [09:47:54] Please check the error above and report it on Telegram.
