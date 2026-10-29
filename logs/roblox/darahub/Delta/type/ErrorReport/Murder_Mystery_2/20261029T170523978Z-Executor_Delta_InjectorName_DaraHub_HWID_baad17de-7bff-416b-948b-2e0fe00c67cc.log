@@ -1,0 +1,15 @@
+[Print] [13:05:12] Your Executor is: Delta
+[Print] [13:05:12] Current Place ID: 142823291
+[Print] [13:05:12] Detected Script Name:Murder Mystery 2
+[Print] [13:05:12] Detected Filename:DaraHub-MM2.lua
+[Print] [13:05:12] 📥 Downloading: DaraHub-MM2.lua
+[Print] [13:05:12] ✓ Download completed in 116.10 ms
+[Print] [13:05:12] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [13:05:12] Loading Murder Mystery 2...
+[Error] [13:05:23] ✗ Murder Mystery 2 failed to load: pZUGVCFPfnDcdFIDZuQwrCyHI:1354: invalid argument #1 to 'pairs' (table expected, got nil)
+[Print] [13:05:23] === DaraHub initialization FAILED after 11.32 s ===
+[Warn] [13:05:23] Error: pZUGVCFPfnDcdFIDZuQwrCyHI:1354: invalid argument #1 to 'pairs' (table expected, got nil)
+[Print] [13:05:23] --- Error Stack ---
+[Error] [13:05:23] [13:05:23] Script Execution: Failed to execute: pZUGVCFPfnDcdFIDZuQwrCyHI:1354: invalid argument #1 to 'pairs' (table expected, got nil)
+[Print] [13:05:23] Something is wrong with the script!
+[Print] [13:05:23] Please check the error above and report it on Telegram.
