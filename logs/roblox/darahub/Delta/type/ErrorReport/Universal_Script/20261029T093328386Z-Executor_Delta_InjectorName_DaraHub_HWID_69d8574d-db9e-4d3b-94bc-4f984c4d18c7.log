@@ -1,0 +1,16 @@
+[Print] [10:33:15] Your Executor is: Delta
+[Print] [10:33:15] Current Place ID: 119958473240233
+[Print] [10:33:15] Current place ID not in list, scanning subplaces...
+[Print] [10:33:16] Game not in supported list, loading Universal script
+[Print] [10:33:16] Filename: Darahub-Universal.lua
+[Print] [10:33:16] 📥 Downloading: Darahub-Universal.lua
+[Print] [10:33:16] ✓ Download completed in 197.76 ms
+[Print] [10:33:16] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [10:33:16] Loading Universal Script...
+[Error] [10:33:27] ✗ Universal Script failed to load: Frame is not a valid member of ImageLabel "ImageLabel"
+[Print] [10:33:27] === DaraHub initialization FAILED after 11.57 s ===
+[Warn] [10:33:27] Error: Frame is not a valid member of ImageLabel "ImageLabel"
+[Print] [10:33:27] --- Error Stack ---
+[Error] [10:33:27] [10:33:27] Script Execution: Failed to execute: Frame is not a valid member of ImageLabel "ImageLabel"
+[Print] [10:33:27] Something is wrong with the script!
+[Print] [10:33:27] Please check the error above and report it on Telegram.
