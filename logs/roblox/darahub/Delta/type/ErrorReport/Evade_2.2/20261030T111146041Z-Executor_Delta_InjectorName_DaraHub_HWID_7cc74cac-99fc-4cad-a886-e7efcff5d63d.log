@@ -1,0 +1,15 @@
+[Print] [19:09:22] Your Executor is: Delta
+[Print] [19:09:22] Current Place ID: 9872472334
+[Print] [19:09:22] Detected Script Name:Evade 2.2
+[Print] [19:09:22] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [19:09:22] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [19:09:23] ✓ Download completed in 325.96 ms
+[Print] [19:09:23] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [19:09:23] Loading Evade 2.2...
+[Error] [19:11:44] ✗ Evade 2.2 failed to load: HttpError: Timedout
+[Print] [19:11:44] === DaraHub initialization FAILED after 2.37 m ===
+[Warn] [19:11:44] Error: HttpError: Timedout
+[Print] [19:11:44] --- Error Stack ---
+[Error] [19:11:44] [19:11:44] Script Execution: Failed to execute: HttpError: Timedout
+[Print] [19:11:44] Something is wrong with the script!
+[Print] [19:11:44] Please check the error above and report it on Telegram.
