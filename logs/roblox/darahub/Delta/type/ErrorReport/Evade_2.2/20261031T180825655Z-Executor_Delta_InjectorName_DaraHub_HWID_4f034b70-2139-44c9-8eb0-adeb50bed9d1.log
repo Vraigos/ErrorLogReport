@@ -1,0 +1,15 @@
+[Print] [23:08:22] Your Executor is: Delta
+[Print] [23:08:22] Current Place ID: 9872472334
+[Print] [23:08:22] Detected Script Name:Evade 2.2
+[Print] [23:08:22] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [23:08:22] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [23:08:22] ✓ Download completed in 280.17 ms
+[Print] [23:08:22] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [23:08:22] Loading Evade 2.2...
+[Error] [23:08:24] ✗ Evade 2.2 failed to load: Events is not a valid member of ReplicatedStorage "ReplicatedStorage"
+[Print] [23:08:24] === DaraHub initialization FAILED after 2.81 s ===
+[Warn] [23:08:24] Error: Events is not a valid member of ReplicatedStorage "ReplicatedStorage"
+[Print] [23:08:24] --- Error Stack ---
+[Error] [23:08:24] [23:08:24] Script Execution: Failed to execute: Events is not a valid member of ReplicatedStorage "ReplicatedStorage"
+[Print] [23:08:24] Something is wrong with the script!
+[Print] [23:08:24] Please check the error above and report it on Telegram.
