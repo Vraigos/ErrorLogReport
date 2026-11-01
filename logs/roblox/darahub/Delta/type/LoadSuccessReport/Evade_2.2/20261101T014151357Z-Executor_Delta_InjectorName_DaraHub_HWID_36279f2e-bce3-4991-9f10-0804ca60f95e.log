@@ -1,0 +1,15 @@
+[Print] [09:41:50] Your Executor is: Delta
+[Print] [09:41:50] Current Place ID: 99214917572799
+[Print] [09:41:50] Current place ID not in list, scanning subplaces...
+[Print] [09:41:50] Found matching subplace: [🎃THE HOLLOW🎃] Evade  (ID: 9872472334)
+[Print] [09:41:50] Detected Script Name:Evade 2.2
+[Print] [09:41:50] Detected Filename:DaraHub-Evade-2.2.lua
+[Print] [09:41:50] 📥 Downloading: DaraHub-Evade-2.2.lua
+[Print] [09:41:50] ✓ Download completed in 45.05 ms
+[Print] [09:41:50] ✓ Saved to temp: DaraHub-Evade-2.2Temp1793497310.lua
+[Print] [09:41:50] ✓ Updated: DaraHub-Evade-2.2.lua
+[Print] [09:41:50] 🗑️ Deleted temp file
+[Print] [09:41:50] Loading Evade 2.2...
+[Print] [09:41:50] ✓ Evade 2.2 Executed Successfully (Took 50.20 ms To execute)
+[Print] [09:41:50] Loading FPS Display...
+[Print] [09:41:50] ✓ FPS Display Executed Successfully (Took 2.41 ms To execute)
