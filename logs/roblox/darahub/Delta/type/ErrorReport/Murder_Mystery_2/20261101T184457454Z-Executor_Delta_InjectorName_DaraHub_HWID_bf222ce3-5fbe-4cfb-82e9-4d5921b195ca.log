@@ -1,0 +1,15 @@
+[Print] [15:44:41] Your Executor is: Delta
+[Print] [15:44:41] Current Place ID: 142823291
+[Print] [15:44:41] Detected Script Name:Murder Mystery 2
+[Print] [15:44:41] Detected Filename:DaraHub-MM2.lua
+[Print] [15:44:41] 📥 Downloading: DaraHub-MM2.lua
+[Print] [15:44:42] ✓ Download completed in 508.78 ms
+[Print] [15:44:42] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [15:44:42] Loading Murder Mystery 2...
+[Error] [15:44:55] ✗ Murder Mystery 2 failed to load: Frame is not a valid member of ScrollingFrame "ScrollingFrame"
+[Print] [15:44:55] === DaraHub initialization FAILED after 14.02 s ===
+[Warn] [15:44:56] Error: Frame is not a valid member of ScrollingFrame "ScrollingFrame"
+[Print] [15:44:56] --- Error Stack ---
+[Error] [15:44:56] [15:44:55] Script Execution: Failed to execute: Frame is not a valid member of ScrollingFrame "ScrollingFrame"
+[Print] [15:44:56] Something is wrong with the script!
+[Print] [15:44:56] Please check the error above and report it on Telegram.
