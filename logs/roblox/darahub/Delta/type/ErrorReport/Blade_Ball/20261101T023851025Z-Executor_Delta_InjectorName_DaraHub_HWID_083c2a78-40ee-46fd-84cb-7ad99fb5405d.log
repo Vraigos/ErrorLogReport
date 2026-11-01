@@ -1,0 +1,15 @@
+[Print] [23:38:32] Your Executor is: Delta
+[Print] [23:38:32] Current Place ID: 13772394625
+[Print] [23:38:32] Detected Script Name:Blade Ball
+[Print] [23:38:32] Detected Filename:Darahub-BladeBall.lua
+[Print] [23:38:32] 📥 Downloading: Darahub-BladeBall.lua
+[Print] [23:38:35] ✓ Download completed in 2.56 s
+[Print] [23:38:35] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [23:38:35] Loading Blade Ball...
+[Error] [23:38:51] ✗ Blade Ball failed to load: tlIBNdCOvYqHfPTWCSJrQhZSh:3131: attempt to index nil with 'Create'
+[Print] [23:38:51] === DaraHub initialization FAILED after 18.75 s ===
+[Warn] [23:38:51] Error: tlIBNdCOvYqHfPTWCSJrQhZSh:3131: attempt to index nil with 'Create'
+[Print] [23:38:51] --- Error Stack ---
+[Error] [23:38:51] [23:38:51] Script Execution: Failed to execute: tlIBNdCOvYqHfPTWCSJrQhZSh:3131: attempt to index nil with 'Create'
+[Print] [23:38:51] Something is wrong with the script!
+[Print] [23:38:51] Please check the error above and report it on Telegram.
