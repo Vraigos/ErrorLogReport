@@ -1,0 +1,17 @@
+[Print] [21:55:55] Your Executor is: Delta
+[Print] [21:55:55] Current Place ID: 9872472334
+[Print] [21:55:56] Detected Script Name:Evade
+[Print] [21:55:56] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [21:55:56] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [21:55:56] ✓ Download completed in 361.94 ms
+[Print] [21:55:56] ✓ Saved to temp: DaraHub-Evade-OverhaulTemp1793627756.lua
+[Print] [21:55:56] ✓ Saved: DaraHub-Evade-Overhaul.lua
+[Print] [21:55:56] 🗑️ Deleted temp file
+[Print] [21:55:56] Loading Evade...
+[Error] [21:55:57] ✗ Evade failed to load: HttpError: SslConnectFail
+[Print] [21:55:57] === DaraHub initialization FAILED after 1.43 s ===
+[Warn] [21:55:57] Error: HttpError: SslConnectFail
+[Print] [21:55:57] --- Error Stack ---
+[Error] [21:55:57] [21:55:57] Script Execution: Failed to execute: HttpError: SslConnectFail
+[Print] [21:55:57] Something is wrong with the script!
+[Print] [21:55:57] Please check the error above and report it on Telegram.
