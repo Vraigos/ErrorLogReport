@@ -1,0 +1,18 @@
+[Print] [22:03:15] Your Executor is: Delta
+[Print] [22:03:15] Current Place ID: 116463962153167
+[Print] [22:03:15] Current place ID not in list, scanning subplaces...
+[Print] [22:03:15] Game not in supported list, loading Universal script
+[Print] [22:03:16] Filename: Darahub-Universal.lua
+[Print] [22:03:16] 📥 Downloading: Darahub-Universal.lua
+[Print] [22:03:16] ✓ Download completed in 509.17 ms
+[Print] [22:03:16] ✓ Saved to temp: Darahub-UniversalTemp1793628196.lua
+[Print] [22:03:16] ✓ Updated: Darahub-Universal.lua
+[Print] [22:03:16] 🗑️ Deleted temp file
+[Print] [22:03:16] Loading Universal Script...
+[Error] [22:03:18] ✗ Universal Script failed to load: HttpError: SslConnectFail
+[Print] [22:03:18] === DaraHub initialization FAILED after 3.71 s ===
+[Warn] [22:03:19] Error: HttpError: SslConnectFail
+[Print] [22:03:19] --- Error Stack ---
+[Error] [22:03:19] [22:03:18] Script Execution: Failed to execute: HttpError: SslConnectFail
+[Print] [22:03:19] Something is wrong with the script!
+[Print] [22:03:19] Please check the error above and report it on Telegram.
