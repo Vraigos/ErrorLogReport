@@ -1,0 +1,17 @@
+[Print] [14:22:15] Your Executor is: Delta
+[Print] [14:22:15] Current Place ID: 9872472334
+[Print] [14:22:16] Detected Script Name:Evade
+[Print] [14:22:16] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [14:22:16] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [14:22:16] ✓ Download completed in 249.67 ms
+[Print] [14:22:16] ✓ Saved to temp: DaraHub-Evade-OverhaulTemp1793609536.lua
+[Print] [14:22:17] ✓ Saved: DaraHub-Evade-Overhaul.lua
+[Print] [14:22:17] 🗑️ Deleted temp file
+[Print] [14:22:17] Loading Evade...
+[Error] [14:22:24] ✗ Evade failed to load: MrRvseRnlImdmbeJDxMRvykHb:81: attempt to call a boolean value
+[Print] [14:22:24] === DaraHub initialization FAILED after 8.56 s ===
+[Warn] [14:22:24] Error: MrRvseRnlImdmbeJDxMRvykHb:81: attempt to call a boolean value
+[Print] [14:22:24] --- Error Stack ---
+[Error] [14:22:24] [14:22:24] Script Execution: Failed to execute: MrRvseRnlImdmbeJDxMRvykHb:81: attempt to call a boolean value
+[Print] [14:22:24] Something is wrong with the script!
+[Print] [14:22:24] Please check the error above and report it on Telegram.
