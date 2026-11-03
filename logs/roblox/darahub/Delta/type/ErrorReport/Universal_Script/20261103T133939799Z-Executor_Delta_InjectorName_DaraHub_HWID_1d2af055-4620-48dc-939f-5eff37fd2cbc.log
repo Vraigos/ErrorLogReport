@@ -1,0 +1,18 @@
+[Print] [21:38:26] Your Executor is: Delta
+[Print] [21:38:26] Current Place ID: 110433093427209
+[Print] [21:38:26] Current place ID not in list, scanning subplaces...
+[Print] [21:38:27] Game not in supported list, loading Universal script
+[Print] [21:38:27] Filename: Darahub-Universal.lua
+[Print] [21:38:27] 📥 Downloading: Darahub-Universal.lua
+[Print] [21:38:35] ✓ Download completed in 8.83 s
+[Print] [21:38:35] ✓ Saved to temp: Darahub-UniversalTemp1793713115.lua
+[Print] [21:38:36] ✓ Saved: Darahub-Universal.lua
+[Print] [21:38:36] 🗑️ Deleted temp file
+[Print] [21:38:36] Loading Universal Script...
+[Error] [21:39:39] ✗ Universal Script failed to load: HttpError: NetFail
+[Print] [21:39:39] === DaraHub initialization FAILED after 1.21 m ===
+[Warn] [21:39:39] Error: HttpError: NetFail
+[Print] [21:39:39] --- Error Stack ---
+[Error] [21:39:39] [21:39:39] Script Execution: Failed to execute: HttpError: NetFail
+[Print] [21:39:39] Something is wrong with the script!
+[Print] [21:39:39] Please check the error above and report it on Telegram.
