@@ -1,0 +1,73 @@
+[Print] [15:17:58] Your Executor is: Delta
+[Print] [15:17:58] Current Place ID: 78906538690694
+[Print] [15:17:58] Current place ID not in list, scanning subplaces...
+[Print] [15:17:58] Found matching subplace: [💀] Steal a Brainrot (ID: 109983668079237)
+[Print] [15:17:58] Detected Script Name:Shit Games/Make you stupid brinrot
+[Print] [15:17:58] Detected Filename:Shit-Games/Steal-A-Shitrot.lua
+[Print] [15:17:58] 📥 Downloading: Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:17:58] ⚠ Fetch attempt 1 failed: HTTP 404, retrying in 2s
+[Warn] [15:18:01] 🔄 Retry attempt 1/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:18:01] ⚠ Fetch attempt 2 failed: HTTP 404, retrying in 4s
+[Warn] [15:18:05] 🔄 Retry attempt 2/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:18:05] ⚠ Fetch attempt 3 failed: HTTP 404, retrying in 8s
+[Warn] [15:18:13] 🔄 Retry attempt 3/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:18:14] ⚠ Fetch attempt 4 failed: HTTP 404, retrying in 16s
+[Warn] [15:18:30] 🔄 Retry attempt 4/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:18:30] ⚠ Fetch attempt 5 failed: HTTP 404, retrying in 30s
+[Warn] [15:19:01] 🔄 Retry attempt 5/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:19:01] ⚠ Fetch attempt 6 failed: HTTP 404, retrying in 30s
+[Warn] [15:19:31] 🔄 Retry attempt 6/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:19:32] ⚠ Fetch attempt 7 failed: HTTP 404, retrying in 30s
+[Warn] [15:20:02] 🔄 Retry attempt 7/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:20:03] ⚠ Fetch attempt 8 failed: HTTP 404, retrying in 30s
+[Warn] [15:20:34] 🔄 Retry attempt 8/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:20:34] ⚠ Fetch attempt 9 failed: HTTP 404, retrying in 30s
+[Warn] [15:21:04] 🔄 Retry attempt 9/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:21:04] ⚠ Fetch attempt 10 failed: HTTP 404, retrying in 30s
+[Warn] [15:21:34] 🔄 Retry attempt 10/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:21:34] ⚠ Fetch attempt 11 failed: HTTP 404, retrying in 30s
+[Warn] [15:22:04] 🔄 Retry attempt 11/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:22:05] ⚠ Fetch attempt 12 failed: HTTP 404, retrying in 30s
+[Warn] [15:22:35] 🔄 Retry attempt 12/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:22:35] ⚠ Fetch attempt 13 failed: HTTP 404, retrying in 30s
+[Warn] [15:23:05] 🔄 Retry attempt 13/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:23:05] ⚠ Fetch attempt 14 failed: HTTP 404, retrying in 30s
+[Warn] [15:23:35] 🔄 Retry attempt 14/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:23:36] ⚠ Fetch attempt 15 failed: HTTP 404, retrying in 30s
+[Warn] [15:24:06] 🔄 Retry attempt 15/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:24:06] ⚠ Fetch attempt 16 failed: HTTP 404, retrying in 30s
+[Warn] [15:24:36] 🔄 Retry attempt 16/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:24:37] ⚠ Fetch attempt 17 failed: HTTP 404, retrying in 30s
+[Warn] [15:25:07] 🔄 Retry attempt 17/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:25:07] ⚠ Fetch attempt 18 failed: HTTP 404, retrying in 30s
+[Warn] [15:25:38] 🔄 Retry attempt 18/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:25:38] ⚠ Fetch attempt 19 failed: HTTP 404, retrying in 30s
+[Warn] [15:26:09] 🔄 Retry attempt 19/20 for: https://darahub.pages.dev/api/script/Shit-Games/Steal-A-Shitrot.lua
+[Error] [15:26:09] ✗ Download failed after 8.18 m: Failed after 20 retries (took 8.18 m): HTTP 404
+[Warn] [15:26:09] ✗ No local copy of Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:26:09] Fetch error: No local copy of Shit-Games/Steal-A-Shitrot.lua
+[Print] [15:26:09] === DaraHub initialization FAILED after 8.19 m ===
+[Warn] [15:26:09] Error: No local copy of Shit-Games/Steal-A-Shitrot.lua
+[Print] [15:26:09] --- Error Stack ---
+[Warn] [15:26:09] [15:18:30] HTTP Request: Fetch attempt 5 failed: HTTP 404
+[Warn] [15:26:09] [15:19:01] HTTP Request: Fetch attempt 6 failed: HTTP 404
+[Warn] [15:26:10] [15:19:32] HTTP Request: Fetch attempt 7 failed: HTTP 404
+[Warn] [15:26:10] [15:20:03] HTTP Request: Fetch attempt 8 failed: HTTP 404
+[Warn] [15:26:10] [15:20:34] HTTP Request: Fetch attempt 9 failed: HTTP 404
+[Warn] [15:26:10] [15:21:04] HTTP Request: Fetch attempt 10 failed: HTTP 404
+[Warn] [15:26:10] [15:21:34] HTTP Request: Fetch attempt 11 failed: HTTP 404
+[Warn] [15:26:10] [15:22:05] HTTP Request: Fetch attempt 12 failed: HTTP 404
+[Warn] [15:26:10] [15:22:35] HTTP Request: Fetch attempt 13 failed: HTTP 404
+[Warn] [15:26:10] [15:23:05] HTTP Request: Fetch attempt 14 failed: HTTP 404
+[Warn] [15:26:10] [15:23:36] HTTP Request: Fetch attempt 15 failed: HTTP 404
+[Warn] [15:26:10] [15:24:06] HTTP Request: Fetch attempt 16 failed: HTTP 404
+[Warn] [15:26:10] [15:24:37] HTTP Request: Fetch attempt 17 failed: HTTP 404
+[Warn] [15:26:10] [15:25:07] HTTP Request: Fetch attempt 18 failed: HTTP 404
+[Warn] [15:26:11] [15:25:38] HTTP Request: Fetch attempt 19 failed: HTTP 404
+[Warn] [15:26:11] [15:26:09] HTTP Request: Fetch attempt 20 failed: HTTP 404
+[Warn] [15:26:11] [15:26:09] HTTP Request: Failed after 20 retries (took 8.18 m): HTTP 404
+[Warn] [15:26:11] [15:26:09] Download: Download failed: Failed after 20 retries (took 8.18 m): HTTP 404
+[Warn] [15:26:11] [15:26:09] Local Load: No local copy of Shit-Games/Steal-A-Shitrot.lua
+[Warn] [15:26:11] [15:26:09] Download/Validation: No local copy of Shit-Games/Steal-A-Shitrot.lua
+[Print] [15:26:11] Something is wrong with the script!
+[Print] [15:26:11] Please check the error above and report it on Telegram.
