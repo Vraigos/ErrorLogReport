@@ -1,0 +1,17 @@
+[Print] [02:23:27] Your Executor is: Delta
+[Print] [02:23:27] Current Place ID: 9872472334
+[Print] [02:23:27] Detected Script Name:Evade
+[Print] [02:23:27] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [02:23:27] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [02:23:27] ✓ Download completed in 199.33 ms
+[Error] [02:23:27] ✗ Invalid syntax in downloaded file: YmwbHhpxJSKIwMMDpIPrLCEGi:384: YmwbHkqefXZICDROWZlFzLkCF:13351: Incomplete statement: expected assignment or a function call
+[Warn] [02:23:27] ✗ No local copy of DaraHub-Evade-Overhaul.lua
+[Warn] [02:23:27] Fetch error: No local copy of DaraHub-Evade-Overhaul.lua
+[Print] [02:23:27] === DaraHub initialization FAILED after 409.50 ms ===
+[Warn] [02:23:27] Error: No local copy of DaraHub-Evade-Overhaul.lua
+[Print] [02:23:27] --- Error Stack ---
+[Error] [02:23:27] [02:23:27] Syntax Check: Invalid syntax in downloaded file: YmwbHhpxJSKIwMMDpIPrLCEGi:384: YmwbHkqefXZICDROWZlFzLkCF:13351: Incomplete statement: expected assignment or a function call
+[Warn] [02:23:27] [02:23:27] Local Load: No local copy of DaraHub-Evade-Overhaul.lua
+[Warn] [02:23:27] [02:23:27] Download/Validation: No local copy of DaraHub-Evade-Overhaul.lua
+[Print] [02:23:28] Something is wrong with the script!
+[Print] [02:23:28] Please check the error above and report it on Telegram.
