@@ -1,0 +1,11 @@
+[Print] [15:40:10] Your Executor is: Delta
+[Print] [15:40:10] Current Place ID: 11353528705
+[Print] [15:40:10] Current place ID not in list, scanning subplaces...
+[Print] [15:40:11] Found matching subplace: [🎃HLWN🎃] Evade  (ID: 9872472334)
+[Print] [15:40:11] Detected Script Name:Evade
+[Print] [15:40:11] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [15:40:11] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [15:40:12] ✓ Download completed in 806.57 ms
+[Error] [15:40:12] ✗ Invalid syntax in downloaded file: ueUKdlFjwzhsqBofBSLugkzEw:384: ueUKdyadeVVHqKvHfxzXbZvvi:13351: Incomplete statement: expected assignment or a function call
+[Print] [15:40:12] ✓ Loaded local copy: DaraHub-Evade-Overhaul.lua
+[Print] [15:40:12] Loading Evade...
