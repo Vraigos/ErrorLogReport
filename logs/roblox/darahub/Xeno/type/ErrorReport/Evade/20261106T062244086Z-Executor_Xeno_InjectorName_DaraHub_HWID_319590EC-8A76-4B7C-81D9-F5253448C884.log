@@ -1,0 +1,17 @@
+[Print] [01:22:42] Your Executor is: Xeno
+[Print] [01:22:42] Current Place ID: 9872472334
+[Print] [01:22:42] Detected Script Name:Evade
+[Print] [01:22:42] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [01:22:42] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [01:22:43] ✓ Download completed in 150.15 ms
+[Error] [01:22:43] ✗ Invalid syntax in downloaded file: CoreGui.27964.Loadstring.loadstring:783892:384: :13351: Incomplete statement: expected assignment or a function call
+[Warn] [01:22:43] ✗ No local copy of DaraHub-Evade-Overhaul.lua
+[Warn] [01:22:43] Fetch error: No local copy of DaraHub-Evade-Overhaul.lua
+[Print] [01:22:43] === DaraHub initialization FAILED after 385.02 ms ===
+[Warn] [01:22:43] Error: No local copy of DaraHub-Evade-Overhaul.lua
+[Print] [01:22:43] --- Error Stack ---
+[Error] [01:22:43] [01:22:43] Syntax Check: Invalid syntax in downloaded file: CoreGui.27964.Loadstring.loadstring:783892:384: :13351: Incomplete statement: expected assignment or a function call
+[Warn] [01:22:43] [01:22:43] Local Load: No local copy of DaraHub-Evade-Overhaul.lua
+[Warn] [01:22:43] [01:22:43] Download/Validation: No local copy of DaraHub-Evade-Overhaul.lua
+[Print] [01:22:43] Something is wrong with the script!
+[Print] [01:22:43] Please check the error above and report it on Telegram.
