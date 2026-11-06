@@ -1,0 +1,17 @@
+[Print] [18:52:06] Your Executor is: Delta
+[Print] [18:52:06] Current Place ID: 9872472334
+[Print] [18:52:06] Detected Script Name:Evade
+[Print] [18:52:06] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [18:52:06] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [18:52:07] ✓ Download completed in 405.97 ms
+[Print] [18:52:07] ✓ Saved to temp: DaraHub-Evade-OverhaulTemp1793962327.lua
+[Print] [18:52:07] ✓ Updated: DaraHub-Evade-Overhaul.lua
+[Print] [18:52:07] 🗑️ Deleted temp file
+[Print] [18:52:07] Loading Evade...
+[Error] [18:52:27] ✗ Evade failed to load: NRSHyToMJIeKiwEhSIXNUXENf:13371: invalid argument #1 to 'ipairs' (table expected, got thread)
+[Print] [18:52:27] === DaraHub initialization FAILED after 20.76 s ===
+[Warn] [18:52:27] Error: NRSHyToMJIeKiwEhSIXNUXENf:13371: invalid argument #1 to 'ipairs' (table expected, got thread)
+[Print] [18:52:28] --- Error Stack ---
+[Error] [18:52:28] [18:52:27] Script Execution: Failed to execute: NRSHyToMJIeKiwEhSIXNUXENf:13371: invalid argument #1 to 'ipairs' (table expected, got thread)
+[Print] [18:52:28] Something is wrong with the script!
+[Print] [18:52:28] Please check the error above and report it on Telegram.
