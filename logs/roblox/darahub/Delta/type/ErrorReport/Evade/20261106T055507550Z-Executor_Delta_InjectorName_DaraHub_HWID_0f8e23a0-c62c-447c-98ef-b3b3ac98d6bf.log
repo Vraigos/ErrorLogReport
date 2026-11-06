@@ -1,0 +1,17 @@
+[Print] [00:55:02] Your Executor is: Delta
+[Print] [00:55:02] Current Place ID: 9872472334
+[Print] [00:55:03] Detected Script Name:Evade
+[Print] [00:55:03] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [00:55:03] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [00:55:03] ✓ Download completed in 246.36 ms
+[Error] [00:55:03] ✗ Invalid syntax in downloaded file: YBcYkHEhuHxrfmAMRpQRlqalT:384: YBcYkZGvJHtILhjkVDJMWuLvU:13351: Incomplete statement: expected assignment or a function call
+[Print] [00:55:03] ✓ Loaded local copy: DaraHub-Evade-Overhaul.lua
+[Print] [00:55:03] Loading Evade...
+[Error] [00:55:06] ✗ Evade failed to load: YBcYkTBgHkbWlhYmnFGRQfYUG:81: attempt to call a boolean value
+[Print] [00:55:06] === DaraHub initialization FAILED after 3.30 s ===
+[Warn] [00:55:06] Error: YBcYkTBgHkbWlhYmnFGRQfYUG:81: attempt to call a boolean value
+[Print] [00:55:06] --- Error Stack ---
+[Error] [00:55:06] [00:55:03] Syntax Check: Invalid syntax in downloaded file: YBcYkHEhuHxrfmAMRpQRlqalT:384: YBcYkZGvJHtILhjkVDJMWuLvU:13351: Incomplete statement: expected assignment or a function call
+[Error] [00:55:06] [00:55:06] Script Execution: Failed to execute: YBcYkTBgHkbWlhYmnFGRQfYUG:81: attempt to call a boolean value
+[Print] [00:55:06] Something is wrong with the script!
+[Print] [00:55:06] Please check the error above and report it on Telegram.
