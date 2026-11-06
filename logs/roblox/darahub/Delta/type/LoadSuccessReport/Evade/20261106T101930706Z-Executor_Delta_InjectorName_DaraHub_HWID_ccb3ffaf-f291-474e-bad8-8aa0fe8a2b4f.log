@@ -1,0 +1,9 @@
+[Print] [15:49:04] Your Executor is: Delta
+[Print] [15:49:04] Current Place ID: 9872472334
+[Print] [15:49:04] Detected Script Name:Evade
+[Print] [15:49:04] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [15:49:04] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [15:49:05] ✓ Download completed in 398.95 ms
+[Error] [15:49:05] ✗ Invalid syntax in downloaded file: QojBJhoGHAIcKRYBTkHUTxvZn:384: QojBJbeDGvwJlEUeCQZwSlpvF:13351: Incomplete statement: expected assignment or a function call
+[Print] [15:49:05] ✓ Loaded local copy: DaraHub-Evade-Overhaul.lua
+[Print] [15:49:05] Loading Evade...
