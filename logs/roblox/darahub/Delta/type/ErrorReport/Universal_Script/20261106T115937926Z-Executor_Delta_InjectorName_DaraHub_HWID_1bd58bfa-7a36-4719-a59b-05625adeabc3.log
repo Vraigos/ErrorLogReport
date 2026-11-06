@@ -1,0 +1,16 @@
+[Print] [14:59:10] Your Executor is: Delta
+[Print] [14:59:10] Current Place ID: 80038274908161
+[Print] [14:59:10] Current place ID not in list, scanning subplaces...
+[Print] [14:59:13] Game not in supported list, loading Universal script
+[Print] [14:59:13] Filename: Darahub-Universal.lua
+[Print] [14:59:13] 📥 Downloading: Darahub-Universal.lua
+[Print] [14:59:13] ✓ Download completed in 541.57 ms
+[Print] [14:59:13] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [14:59:13] Loading Universal Script...
+[Error] [14:59:36] ✗ Universal Script failed to load: Players is not a valid member of DataModel "Game protected by Range AntiCheat"
+[Print] [14:59:36] === DaraHub initialization FAILED after 26.65 s ===
+[Warn] [14:59:36] Error: Players is not a valid member of DataModel "Game protected by Range AntiCheat"
+[Print] [14:59:36] --- Error Stack ---
+[Error] [14:59:36] [14:59:36] Script Execution: Failed to execute: Players is not a valid member of DataModel "Game protected by Range AntiCheat"
+[Print] [14:59:36] Something is wrong with the script!
+[Print] [14:59:36] Please check the error above and report it on Telegram.
