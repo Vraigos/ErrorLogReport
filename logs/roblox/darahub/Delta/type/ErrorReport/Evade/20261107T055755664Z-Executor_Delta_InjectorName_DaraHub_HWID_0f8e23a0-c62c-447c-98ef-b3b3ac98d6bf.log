@@ -1,0 +1,15 @@
+[Print] [00:57:51] Your Executor is: Delta
+[Print] [00:57:51] Current Place ID: 9872472334
+[Print] [00:57:51] Detected Script Name:Evade
+[Print] [00:57:51] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [00:57:51] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [00:57:51] ✓ Download completed in 331.54 ms
+[Print] [00:57:51] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [00:57:51] Loading Evade...
+[Error] [00:57:54] ✗ Evade failed to load: fpSAKjvVJsExZOyvxhsIIjwFF:81: attempt to call a boolean value
+[Print] [00:57:54] === DaraHub initialization FAILED after 2.97 s ===
+[Warn] [00:57:54] Error: fpSAKjvVJsExZOyvxhsIIjwFF:81: attempt to call a boolean value
+[Print] [00:57:54] --- Error Stack ---
+[Error] [00:57:54] [00:57:54] Script Execution: Failed to execute: fpSAKjvVJsExZOyvxhsIIjwFF:81: attempt to call a boolean value
+[Print] [00:57:54] Something is wrong with the script!
+[Print] [00:57:54] Please check the error above and report it on Telegram.
