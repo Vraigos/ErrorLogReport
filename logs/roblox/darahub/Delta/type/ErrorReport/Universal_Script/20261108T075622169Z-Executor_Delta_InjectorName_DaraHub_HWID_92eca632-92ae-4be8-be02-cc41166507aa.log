@@ -1,0 +1,16 @@
+[Print] [10:55:31] Your Executor is: Delta
+[Print] [10:55:31] Current Place ID: 17625359962
+[Print] [10:55:31] Current place ID not in list, scanning subplaces...
+[Print] [10:55:34] Game not in supported list, loading Universal script
+[Print] [10:55:35] Filename: Darahub-Universal.lua
+[Print] [10:55:36] 📥 Downloading: Darahub-Universal.lua
+[Print] [10:55:42] ✓ Download completed in 3.56 s
+[Print] [10:55:42] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [10:55:42] Loading Universal Script...
+[Error] [10:56:20] ✗ Universal Script failed to load: Players is not a valid member of DataModel "Ugc"
+[Print] [10:56:20] === DaraHub initialization FAILED after 49.17 s ===
+[Warn] [10:56:20] Error: Players is not a valid member of DataModel "Ugc"
+[Print] [10:56:20] --- Error Stack ---
+[Error] [10:56:20] [10:56:20] Script Execution: Failed to execute: Players is not a valid member of DataModel "Ugc"
+[Print] [10:56:20] Something is wrong with the script!
+[Print] [10:56:20] Please check the error above and report it on Telegram.
