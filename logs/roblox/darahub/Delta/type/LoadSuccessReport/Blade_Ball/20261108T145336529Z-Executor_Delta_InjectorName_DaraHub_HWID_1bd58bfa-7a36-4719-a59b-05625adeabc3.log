@@ -1,0 +1,12 @@
+[Print] [17:53:04] Your Executor is: Delta
+[Print] [17:53:04] Current Place ID: 16281300371
+[Print] [17:53:04] Current place ID not in list, scanning subplaces...
+[Print] [17:53:05] Found matching subplace: Blade Ball (ID: 13772394625)
+[Print] [17:53:05] Detected Script Name:Blade Ball
+[Print] [17:53:05] Detected Filename:Darahub-BladeBall.lua
+[Print] [17:53:05] 📥 Downloading: Darahub-BladeBall.lua
+[Print] [17:53:06] ✓ Download completed in 223.00 ms
+[Print] [17:53:06] ✓ Saved to temp: Darahub-BladeBallTemp1794149586.lua
+[Print] [17:53:06] ✓ Saved: Darahub-BladeBall.lua
+[Print] [17:53:06] 🗑️ Deleted temp file
+[Print] [17:53:06] Loading Blade Ball...
