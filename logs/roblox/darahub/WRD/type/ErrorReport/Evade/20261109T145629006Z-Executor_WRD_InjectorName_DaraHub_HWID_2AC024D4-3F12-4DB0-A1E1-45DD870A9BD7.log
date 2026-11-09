@@ -1,0 +1,15 @@
+[Print] [15:55:55] Your Executor is: WRD
+[Print] [15:55:55] Current Place ID: 9872472334
+[Print] [15:55:55] Detected Script Name:Evade
+[Print] [15:55:55] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [15:55:55] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [15:55:56] ✓ Download completed in 741.77 ms
+[Print] [15:55:57] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [15:55:57] Loading Evade...
+[Error] [15:56:28] ✗ Evade failed to load: Cannot require a non-RobloxScript module from a RobloxScript
+[Print] [15:56:28] === DaraHub initialization FAILED after 33.22 s ===
+[Warn] [15:56:28] Error: Cannot require a non-RobloxScript module from a RobloxScript
+[Print] [15:56:28] --- Error Stack ---
+[Error] [15:56:28] [15:56:28] Script Execution: Failed to execute: Cannot require a non-RobloxScript module from a RobloxScript
+[Print] [15:56:28] Something is wrong with the script!
+[Print] [15:56:28] Please check the error above and report it on Telegram.
