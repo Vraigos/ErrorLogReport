@@ -1,0 +1,17 @@
+[Print] [15:41:53] Your Executor is: Real
+[Print] [15:41:53] Current Place ID: 142823291
+[Print] [15:41:53] Detected Script Name:Murder Mystery 2
+[Print] [15:41:53] Detected Filename:DaraHub-MM2.lua
+[Print] [15:41:53] 📥 Downloading: DaraHub-MM2.lua
+[Print] [15:41:54] ✓ Download completed in 174.28 ms
+[Print] [15:41:54] ✓ Saved to temp: DaraHub-MM2Temp1794321714.lua
+[Print] [15:41:54] ✓ Saved: DaraHub-MM2.lua
+[Print] [15:41:54] 🗑️ Deleted temp file
+[Print] [15:41:54] Loading Murder Mystery 2...
+[Error] [15:42:02] ✗ Murder Mystery 2 failed to load: loadstring:1031: attempt to index nil with 'Create'
+[Print] [15:42:02] === DaraHub initialization FAILED after 8.44 s ===
+[Warn] [15:42:02] Error: loadstring:1031: attempt to index nil with 'Create'
+[Print] [15:42:02] --- Error Stack ---
+[Error] [15:42:02] [15:42:02] Script Execution: Failed to execute: loadstring:1031: attempt to index nil with 'Create'
+[Print] [15:42:02] Something is wrong with the script!
+[Print] [15:42:02] Please check the error above and report it on Telegram.
