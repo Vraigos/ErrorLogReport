@@ -1,0 +1,16 @@
+[Print] [09:11:55] Your Executor is: Delta
+[Print] [09:11:55] Current Place ID: 5985232436
+[Print] [09:11:55] Current place ID not in list, scanning subplaces...
+[Print] [09:11:56] Game not in supported list, loading Universal script
+[Print] [09:11:56] Filename: Darahub-Universal.lua
+[Print] [09:11:56] 📥 Downloading: Darahub-Universal.lua
+[Print] [09:11:56] ✓ Download completed in 264.45 ms
+[Print] [09:11:56] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [09:11:56] Loading Universal Script...
+[Error] [09:12:44] ✗ Universal Script failed to load: [string "qBbWTBWKVzkUeaTuLLge"]:2267: attempt to index nil with 'Create'
+[Print] [09:12:44] === DaraHub initialization FAILED after 48.94 s ===
+[Warn] [09:12:44] Error: [string "qBbWTBWKVzkUeaTuLLge"]:2267: attempt to index nil with 'Create'
+[Print] [09:12:44] --- Error Stack ---
+[Error] [09:12:44] [09:12:44] Script Execution: Failed to execute: [string "qBbWTBWKVzkUeaTuLLge"]:2267: attempt to index nil with 'Create'
+[Print] [09:12:44] Something is wrong with the script!
+[Print] [09:12:44] Please check the error above and report it on Telegram.
