@@ -1,0 +1,19 @@
+[Print] [12:19:06] Your Executor is: Delta
+[Print] [12:19:06] Current Place ID: 16581637217
+[Print] [12:19:06] Current place ID not in list, scanning subplaces...
+[Print] [12:19:08] Found matching subplace: Blade Ball (ID: 13772394625)
+[Print] [12:19:08] Detected Script Name:Blade Ball
+[Print] [12:19:08] Detected Filename:Darahub-BladeBall.lua
+[Print] [12:19:08] 📥 Downloading: Darahub-BladeBall.lua
+[Print] [12:19:09] ✓ Download completed in 79.47 ms
+[Print] [12:19:09] ✓ Saved to temp: Darahub-BladeBallTemp1794755949.lua
+[Print] [12:19:09] ✓ Updated: Darahub-BladeBall.lua
+[Print] [12:19:09] 🗑️ Deleted temp file
+[Print] [12:19:09] Loading Blade Ball...
+[Error] [12:19:13] ✗ Blade Ball failed to load: aJjxEMsYvJWqDUmBAqAiZmgtx:1028: attempt to index nil with 'Create'
+[Print] [12:19:13] === DaraHub initialization FAILED after 6.97 s ===
+[Warn] [12:19:13] Error: aJjxEMsYvJWqDUmBAqAiZmgtx:1028: attempt to index nil with 'Create'
+[Print] [12:19:13] --- Error Stack ---
+[Error] [12:19:13] [12:19:13] Script Execution: Failed to execute: aJjxEMsYvJWqDUmBAqAiZmgtx:1028: attempt to index nil with 'Create'
+[Print] [12:19:13] Something is wrong with the script!
+[Print] [12:19:13] Please check the error above and report it on Telegram.
