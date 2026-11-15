@@ -1,0 +1,12 @@
+[Print] [23:41:18] Your Executor is: Delta
+[Print] [23:41:18] Current Place ID: 99214917572799
+[Print] [23:41:18] Current place ID not in list, scanning subplaces...
+[Print] [23:41:19] Found matching subplace: [🎃HLWN🎃] Evade  (ID: 9872472334)
+[Print] [23:41:19] Detected Script Name:Evade
+[Print] [23:41:19] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [23:41:19] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [23:41:19] ✓ Download completed in 220.22 ms
+[Print] [23:41:19] ✓ Saved to temp: DaraHub-Evade-OverhaulTemp1794762679.lua
+[Print] [23:41:19] ✓ Updated: DaraHub-Evade-Overhaul.lua
+[Print] [23:41:19] 🗑️ Deleted temp file
+[Print] [23:41:19] Loading Evade...
