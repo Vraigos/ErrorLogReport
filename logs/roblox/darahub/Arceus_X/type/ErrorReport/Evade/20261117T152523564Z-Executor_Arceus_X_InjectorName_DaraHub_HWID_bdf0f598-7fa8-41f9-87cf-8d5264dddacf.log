@@ -1,0 +1,16 @@
+[Print] [23:24:45] Your Executor is: Arceus X
+[Print] [23:24:45] Current Place ID: 9872472334
+[Print] [23:24:45] Detected Script Name:Evade
+[Print] [23:24:45] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [23:24:45] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [23:24:45] ✓ Download completed in 388.12 ms
+[Print] [23:24:46] ✓ Saved to temp: DaraHub-Evade-OverhaulTemp1794929086.lua
+[Print] [23:24:46] ✓ Saved: DaraHub-Evade-Overhaul.lua
+[Print] [23:24:46] Loading Evade...
+[Error] [23:25:22] ✗ Evade failed to load: ImageLabel is not a valid member of Frame "Frame"
+[Print] [23:25:22] === DaraHub initialization FAILED after 37.43 s ===
+[Warn] [23:25:22] Error: ImageLabel is not a valid member of Frame "Frame"
+[Print] [23:25:22] --- Error Stack ---
+[Error] [23:25:22] [23:25:22] Script Execution: Failed to execute: ImageLabel is not a valid member of Frame "Frame"
+[Print] [23:25:22] Something is wrong with the script!
+[Print] [23:25:22] Please check the error above and report it on Telegram.
