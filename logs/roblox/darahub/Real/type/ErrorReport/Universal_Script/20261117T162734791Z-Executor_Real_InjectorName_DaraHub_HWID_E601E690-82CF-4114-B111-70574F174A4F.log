@@ -1,0 +1,16 @@
+[Print] [17:27:33] Your Executor is: Real
+[Print] [17:27:33] Current Place ID: 7041939546
+[Print] [17:27:33] Current place ID not in list, scanning subplaces...
+[Print] [17:27:33] Game not in supported list, loading Universal script
+[Print] [17:27:33] Filename: Darahub-Universal.lua
+[Print] [17:27:33] 📥 Downloading: Darahub-Universal.lua
+[Print] [17:27:33] ✓ Download completed in 145.66 ms
+[Print] [17:27:33] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [17:27:33] Loading Universal Script...
+[Error] [17:27:34] ✗ Universal Script failed to load: loadstring:12476: attempt to index nil with 'UserId'
+[Print] [17:27:34] === DaraHub initialization FAILED after 1.46 s ===
+[Warn] [17:27:34] Error: loadstring:12476: attempt to index nil with 'UserId'
+[Print] [17:27:34] --- Error Stack ---
+[Error] [17:27:34] [17:27:34] Script Execution: Failed to execute: loadstring:12476: attempt to index nil with 'UserId'
+[Print] [17:27:34] Something is wrong with the script!
+[Print] [17:27:34] Please check the error above and report it on Telegram.
