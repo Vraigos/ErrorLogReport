@@ -1,0 +1,12 @@
+[Print] [01:17:29] Your Executor is: Delta
+[Print] [01:17:29] Current Place ID: 12135007762
+[Print] [01:17:29] Current place ID not in list, scanning subplaces...
+[Print] [01:17:29] Found matching subplace: nico's nextbots 🌸   (ID: 10118559731)
+[Print] [01:17:29] Detected Script Name:Nico Bot
+[Print] [01:17:29] Detected Filename:Darahub-Nico-Nextbot.lua
+[Print] [01:17:29] 📥 Downloading: Darahub-Nico-Nextbot.lua
+[Print] [01:17:29] ✓ Download completed in 130.99 ms
+[Print] [01:17:29] ✓ Saved to temp: Darahub-Nico-NextbotTemp1795112249.lua
+[Print] [01:17:29] ✓ Saved: Darahub-Nico-Nextbot.lua
+[Print] [01:17:29] 🗑️ Deleted temp file
+[Print] [01:17:29] Loading Nico Bot...
