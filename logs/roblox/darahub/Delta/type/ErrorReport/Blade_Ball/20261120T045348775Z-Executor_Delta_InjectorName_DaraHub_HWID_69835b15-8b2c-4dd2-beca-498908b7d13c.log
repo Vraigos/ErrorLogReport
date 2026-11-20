@@ -1,0 +1,17 @@
+[Print] [23:53:11] Your Executor is: Delta
+[Print] [23:53:11] Current Place ID: 13772394625
+[Print] [23:53:11] Detected Script Name:Blade Ball
+[Print] [23:53:11] Detected Filename:Darahub-BladeBall.lua
+[Print] [23:53:11] 📥 Downloading: Darahub-BladeBall.lua
+[Print] [23:53:11] ✓ Download completed in 108.99 ms
+[Print] [23:53:11] ✓ Saved to temp: Darahub-BladeBallTemp1795150391.lua
+[Print] [23:53:11] ✓ Saved: Darahub-BladeBall.lua
+[Print] [23:53:11] 🗑️ Deleted temp file
+[Print] [23:53:11] Loading Blade Ball...
+[Error] [23:53:47] ✗ Blade Ball failed to load: Frame is not a valid member of ImageLabel "ImageLabel"
+[Print] [23:53:47] === DaraHub initialization FAILED after 35.89 s ===
+[Warn] [23:53:47] Error: Frame is not a valid member of ImageLabel "ImageLabel"
+[Print] [23:53:47] --- Error Stack ---
+[Error] [23:53:47] [23:53:47] Script Execution: Failed to execute: Frame is not a valid member of ImageLabel "ImageLabel"
+[Print] [23:53:47] Something is wrong with the script!
+[Print] [23:53:47] Please check the error above and report it on Telegram.
