@@ -1,0 +1,17 @@
+[Print] [16:26:26] Your Executor is: Delta
+[Print] [16:26:26] Current Place ID: 13772394625
+[Print] [16:26:26] Detected Script Name:Blade Ball
+[Print] [16:26:26] Detected Filename:Darahub-BladeBall.lua
+[Print] [16:26:27] 📥 Downloading: Darahub-BladeBall.lua
+[Print] [16:26:28] ✓ Download completed in 228.51 ms
+[Print] [16:26:28] ✓ Saved to temp: Darahub-BladeBallTemp1795163188.lua
+[Print] [16:26:28] ✓ Saved: Darahub-BladeBall.lua
+[Print] [16:26:28] 🗑️ Deleted temp file
+[Print] [16:26:28] Loading Blade Ball...
+[Error] [16:26:46] ✗ Blade Ball failed to load: [string "pAmxCXQrXDvCyUSzyxyO"]:3379: attempt to index nil with 'Create'
+[Print] [16:26:46] === DaraHub initialization FAILED after 20.24 s ===
+[Warn] [16:26:46] Error: [string "pAmxCXQrXDvCyUSzyxyO"]:3379: attempt to index nil with 'Create'
+[Print] [16:26:46] --- Error Stack ---
+[Error] [16:26:46] [16:26:46] Script Execution: Failed to execute: [string "pAmxCXQrXDvCyUSzyxyO"]:3379: attempt to index nil with 'Create'
+[Print] [16:26:46] Something is wrong with the script!
+[Print] [16:26:46] Please check the error above and report it on Telegram.
