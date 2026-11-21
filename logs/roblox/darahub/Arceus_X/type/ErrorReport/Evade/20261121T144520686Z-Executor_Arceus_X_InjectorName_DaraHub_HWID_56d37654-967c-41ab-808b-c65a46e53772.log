@@ -1,0 +1,15 @@
+[Print] [11:45:06] Your Executor is: Arceus X
+[Print] [11:45:06] Current Place ID: 9872472334
+[Print] [11:45:06] Detected Script Name:Evade
+[Print] [11:45:06] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [11:45:06] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [11:45:07] ✓ Download completed in 276.40 ms
+[Print] [11:45:07] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [11:45:07] Loading Evade...
+[Error] [11:45:17] ✗ Evade failed to load: HTTP transport error: SSL_connect failed with error -308: error state on socket
+[Print] [11:45:17] === DaraHub initialization FAILED after 10.27 s ===
+[Warn] [11:45:17] Error: HTTP transport error: SSL_connect failed with error -308: error state on socket
+[Print] [11:45:17] --- Error Stack ---
+[Error] [11:45:17] [11:45:17] Script Execution: Failed to execute: HTTP transport error: SSL_connect failed with error -308: error state on socket
+[Print] [11:45:17] Something is wrong with the script!
+[Print] [11:45:17] Please check the error above and report it on Telegram.
