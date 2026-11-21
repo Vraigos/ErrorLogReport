@@ -1,0 +1,16 @@
+[Print] [19:22:02] Your Executor is: Delta
+[Print] [19:22:02] Current Place ID: 118868556321211
+[Print] [19:22:02] Current place ID not in list, scanning subplaces...
+[Print] [19:22:03] Game not in supported list, loading Universal script
+[Print] [19:22:03] Filename: Darahub-Universal.lua
+[Print] [19:22:03] 📥 Downloading: Darahub-Universal.lua
+[Print] [19:22:03] ✓ Download completed in 228.24 ms
+[Print] [19:22:03] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [19:22:03] Loading Universal Script...
+[Error] [19:22:07] ✗ Universal Script failed to load: ServerStatsItem is not a valid member of StatsItem "Stats.Network"
+[Print] [19:22:07] === DaraHub initialization FAILED after 4.55 s ===
+[Warn] [19:22:07] Error: ServerStatsItem is not a valid member of StatsItem "Stats.Network"
+[Print] [19:22:07] --- Error Stack ---
+[Error] [19:22:07] [19:22:07] Script Execution: Failed to execute: ServerStatsItem is not a valid member of StatsItem "Stats.Network"
+[Print] [19:22:07] Something is wrong with the script!
+[Print] [19:22:07] Please check the error above and report it on Telegram.
