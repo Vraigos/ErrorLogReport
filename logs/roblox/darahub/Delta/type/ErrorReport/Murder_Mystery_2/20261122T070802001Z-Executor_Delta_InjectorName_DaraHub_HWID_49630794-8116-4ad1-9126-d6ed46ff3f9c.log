@@ -1,0 +1,17 @@
+[Print] [15:07:43] Your Executor is: Delta
+[Print] [15:07:43] Current Place ID: 142823291
+[Print] [15:07:43] Detected Script Name:Murder Mystery 2
+[Print] [15:07:43] Detected Filename:DaraHub-MM2.lua
+[Print] [15:07:43] 📥 Downloading: DaraHub-MM2.lua
+[Print] [15:07:43] ✓ Download completed in 147.55 ms
+[Print] [15:07:43] ✓ Saved to temp: DaraHub-MM2Temp1795331263.lua
+[Print] [15:07:43] ✓ Saved: DaraHub-MM2.lua
+[Print] [15:07:43] 🗑️ Deleted temp file
+[Print] [15:07:43] Loading Murder Mystery 2...
+[Error] [15:08:02] ✗ Murder Mystery 2 failed to load: [string "BlTiSHHPoYNGcakQexqB"]:9036: attempt to index nil with 'Create'
+[Print] [15:08:02] === DaraHub initialization FAILED after 19.30 s ===
+[Warn] [15:08:02] Error: [string "BlTiSHHPoYNGcakQexqB"]:9036: attempt to index nil with 'Create'
+[Print] [15:08:02] --- Error Stack ---
+[Error] [15:08:02] [15:08:02] Script Execution: Failed to execute: [string "BlTiSHHPoYNGcakQexqB"]:9036: attempt to index nil with 'Create'
+[Print] [15:08:02] Something is wrong with the script!
+[Print] [15:08:02] Please check the error above and report it on Telegram.
