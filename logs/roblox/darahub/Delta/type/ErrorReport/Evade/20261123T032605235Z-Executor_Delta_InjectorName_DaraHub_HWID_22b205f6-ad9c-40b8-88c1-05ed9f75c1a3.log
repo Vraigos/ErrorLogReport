@@ -1,0 +1,15 @@
+[Print] [03:25:56] Your Executor is: Delta
+[Print] [03:25:56] Current Place ID: 9872472334
+[Print] [03:25:56] Detected Script Name:Evade
+[Print] [03:25:56] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [03:25:56] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [03:25:57] ✓ Download completed in 113.09 ms
+[Print] [03:25:57] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [03:25:57] Loading Evade...
+[Error] [03:26:03] ✗ Evade failed to load: HttpError: ConnectFail
+[Print] [03:26:03] === DaraHub initialization FAILED after 6.60 s ===
+[Warn] [03:26:03] Error: HttpError: ConnectFail
+[Print] [03:26:03] --- Error Stack ---
+[Error] [03:26:03] [03:26:03] Script Execution: Failed to execute: HttpError: ConnectFail
+[Print] [03:26:03] Something is wrong with the script!
+[Print] [03:26:03] Please check the error above and report it on Telegram.
