@@ -1,0 +1,11 @@
+[Print] [23:01:01] Your Executor is: Delta
+[Print] [23:01:01] Current Place ID: 101162526389541
+[Print] [23:01:01] Current place ID not in list, scanning subplaces...
+[Print] [23:01:04] Game not in supported list, loading Universal script
+[Print] [23:01:04] Filename: Darahub-Universal.lua
+[Print] [23:01:04] 📥 Downloading: Darahub-Universal.lua
+[Print] [23:01:05] ✓ Download completed in 915.34 ms
+[Print] [23:01:05] ✓ Saved to temp: Darahub-UniversalTemp1795456865.lua
+[Print] [23:01:05] ✓ Updated: Darahub-Universal.lua
+[Print] [23:01:05] 🗑️ Deleted temp file
+[Print] [23:01:05] Loading Universal Script...
