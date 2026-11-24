@@ -1,0 +1,17 @@
+[Print] [09:55:50] Your Executor is: OpiumwareMac
+[Print] [09:55:50] Current Place ID: 99214917572799
+[Print] [09:55:50] Current place ID not in list, scanning subplaces...
+[Print] [09:55:50] Found matching subplace: [🦃] Evade (ID: 9872472334)
+[Print] [09:55:50] Detected Script Name:Evade
+[Print] [09:55:50] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [09:55:50] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [09:55:51] ✓ Download completed in 432.26 ms
+[Print] [09:55:51] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [09:55:51] Loading Evade...
+[Error] [09:55:54] ✗ Evade failed to load: Opiumware:12476: attempt to index nil with 'UserId'
+[Print] [09:55:54] === DaraHub initialization FAILED after 4.23 s ===
+[Warn] [09:55:54] Error: Opiumware:12476: attempt to index nil with 'UserId'
+[Print] [09:55:54] --- Error Stack ---
+[Error] [09:55:54] [09:55:54] Script Execution: Failed to execute: Opiumware:12476: attempt to index nil with 'UserId'
+[Print] [09:55:54] Something is wrong with the script!
+[Print] [09:55:54] Please check the error above and report it on Telegram.
