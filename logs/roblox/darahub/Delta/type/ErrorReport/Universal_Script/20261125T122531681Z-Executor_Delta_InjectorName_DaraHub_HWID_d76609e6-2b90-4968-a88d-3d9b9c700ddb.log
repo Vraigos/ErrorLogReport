@@ -1,0 +1,16 @@
+[Print] [19:25:23] Your Executor is: Delta
+[Print] [19:25:23] Current Place ID: 116884863643647
+[Print] [19:25:23] Current place ID not in list, scanning subplaces...
+[Print] [19:25:23] Game not in supported list, loading Universal script
+[Print] [19:25:23] Filename: Darahub-Universal.lua
+[Print] [19:25:23] 📥 Downloading: Darahub-Universal.lua
+[Print] [19:25:24] ✓ Download completed in 94.51 ms
+[Print] [19:25:24] ✓ No update Found, Please wait while the script is Loading from local file
+[Print] [19:25:24] Loading Universal Script...
+[Error] [19:25:30] ✗ Universal Script failed to load: HttpError: DnsResolve
+[Print] [19:25:30] === DaraHub initialization FAILED after 7.47 s ===
+[Warn] [19:25:30] Error: HttpError: DnsResolve
+[Print] [19:25:30] --- Error Stack ---
+[Error] [19:25:30] [19:25:30] Script Execution: Failed to execute: HttpError: DnsResolve
+[Print] [19:25:31] Something is wrong with the script!
+[Print] [19:25:31] Please check the error above and report it on Telegram.
