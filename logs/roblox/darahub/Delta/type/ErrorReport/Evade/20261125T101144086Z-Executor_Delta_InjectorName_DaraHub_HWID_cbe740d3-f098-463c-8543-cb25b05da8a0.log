@@ -1,0 +1,19 @@
+[Print] [16:04:25] Your Executor is: Delta
+[Print] [16:04:25] Current Place ID: 11353528705
+[Print] [16:04:25] Current place ID not in list, scanning subplaces...
+[Print] [16:04:26] Found matching subplace: [🦃] Evade (ID: 9872472334)
+[Print] [16:04:26] Detected Script Name:Evade
+[Print] [16:04:26] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [16:04:26] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [16:04:26] ✓ Download completed in 255.97 ms
+[Print] [16:04:27] ✓ Saved to temp: DaraHub-Evade-OverhaulTemp1795601067.lua
+[Print] [16:04:27] ✓ Saved: DaraHub-Evade-Overhaul.lua
+[Print] [16:04:27] 🗑️ Deleted temp file
+[Print] [16:04:27] Loading Evade...
+[Error] [16:10:23] ✗ Evade failed to load: HttpError: Timedout
+[Print] [16:10:23] === DaraHub initialization FAILED after 5.97 m ===
+[Warn] [16:10:24] Error: HttpError: Timedout
+[Print] [16:10:24] --- Error Stack ---
+[Error] [16:10:24] [16:10:23] Script Execution: Failed to execute: HttpError: Timedout
+[Print] [16:10:24] Something is wrong with the script!
+[Print] [16:10:24] Please check the error above and report it on Telegram.
