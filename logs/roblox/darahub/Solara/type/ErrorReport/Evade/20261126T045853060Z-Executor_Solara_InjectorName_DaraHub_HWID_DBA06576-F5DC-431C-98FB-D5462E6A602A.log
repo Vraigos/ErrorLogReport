@@ -1,0 +1,17 @@
+[Print] [12:58:45] Your Executor is: Solara
+[Print] [12:58:45] Current Place ID: 9872472334
+[Print] [12:58:45] Detected Script Name:Evade
+[Print] [12:58:45] Detected Filename:DaraHub-Evade-Overhaul.lua
+[Print] [12:58:45] 📥 Downloading: DaraHub-Evade-Overhaul.lua
+[Print] [12:58:46] ✓ Download completed in 307.03 ms
+[Error] [12:58:46] ✗ Invalid syntax in downloaded file: loadstring:9: attempt to call a nil value
+[Error] [12:58:52] ✗ Invalid syntax in local file (deleted): loadstring:9: attempt to call a nil value
+[Warn] [12:58:52] Fetch error: Invalid syntax in local file (deleted): loadstring:9: attempt to call a nil value
+[Print] [12:58:52] === DaraHub initialization FAILED after 6.66 s ===
+[Warn] [12:58:52] Error: Invalid syntax in local file (deleted): loadstring:9: attempt to call a nil value
+[Print] [12:58:52] --- Error Stack ---
+[Error] [12:58:52] [12:58:46] Syntax Check: Invalid syntax in downloaded file: loadstring:9: attempt to call a nil value
+[Error] [12:58:52] [12:58:52] Syntax Check: Invalid syntax in local file (deleted): loadstring:9: attempt to call a nil value
+[Warn] [12:58:52] [12:58:52] Download/Validation: Invalid syntax in local file (deleted): loadstring:9: attempt to call a nil value
+[Print] [12:58:52] Something is wrong with the script!
+[Print] [12:58:52] Please check the error above and report it on Telegram.
